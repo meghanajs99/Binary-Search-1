@@ -1,5 +1,6 @@
 //TC:O(logn)
 //SC:O(1)
+//Yes
 
 //code
 def search(self, nums: List[int], target: int) -> int:
